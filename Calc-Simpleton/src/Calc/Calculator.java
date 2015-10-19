@@ -37,7 +37,7 @@ public class Calculator {
         
         flag = true;
         do {
-            System.out.println("Give an operator (+,-,*,/");
+            System.out.println("Give an operator (+,-,*,/)");
             String y = sc.next();
             if (y.equals("+") || y.equals("-") || y.equals("*") || y.equals("/")) {
                 inputId = y;
