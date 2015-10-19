@@ -57,7 +57,7 @@ public class Calculator {
         }
     }
     
-    private boolean isInt( String str ){
+    private boolean isInt(String str){
         int i = 0;
         int tempnum = 0;
 
